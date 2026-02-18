@@ -33,7 +33,7 @@ variable "location" {
 # ACR ID used for authentication
 variable "acr_id" {
   type    = string
-  default = "/subscriptions/xxxxxxxx.xxxx.xxxx.xxxx.xxxxxxxxxxxx/resourceGroups/your-resourece-group/providers/Microsoft.ContainerRegistry/registries/your-acr"
+  default = "/subscriptions/xxxxxxxx.xxxx.xxxx.xxxx.xxxxxxxxxxxx/resourceGroups/your-resource-group/providers/Microsoft.ContainerRegistry/registries/your-acr"
 }
 
 # ACR server URL
