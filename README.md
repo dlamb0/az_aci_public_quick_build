@@ -1,7 +1,6 @@
-# Azure Web App - Terraform (Modular)
+# Azure Web App - Terraform
 
-Deploys an Azure Linux Web App running a Docker container, using a modular Terraform structure.
-Hosted via Azure Container Instances.
+Deploys an Azure Linux Web App running a Docker container, using Terraform. Hosted via Azure Container Instances.
 
 ## Resources Deployed
 
